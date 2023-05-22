@@ -1,0 +1,16 @@
+.product__form {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.product__form-input {
+    margin-bottom: 10px;
+}
+
+.product__form-number {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+    margin-bottom: 10px;
+}
